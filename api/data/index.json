@@ -1,0 +1,20 @@
+{
+  "version": "0.0.1",
+  "people": [
+    {
+      "name": "Elon Musk",
+      "image": "/static/images/elon_musk.jpg",
+      "planes": [
+        {
+          "name": "Elon Musk's Private Jet",
+          "reg": "N914FD"
+        }
+      ]
+    },
+    {
+      "name": "Taylor Swift",
+      "image": "/static/images/taylor_swift.webp",
+      "planes": []
+    }
+  ]
+}
