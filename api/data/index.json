@@ -7,14 +7,23 @@
       "planes": [
         {
           "name": "Elon Musk's Private Jet",
-          "reg": "N914FD"
+          "reg": "N628TS"
         }
       ]
     },
     {
       "name": "Taylor Swift",
       "image": "/static/images/taylor_swift.webp",
-      "planes": []
+      "planes": [
+        {
+          "name": "Taylor Swift's Private Jet",
+          "reg": "N898TS"
+        },
+        {
+          "name": "The Football Era",
+          "reg": "9H-VTD"
+        }
+      ]
     }
   ]
 }
